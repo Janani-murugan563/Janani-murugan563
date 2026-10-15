@@ -9,16 +9,6 @@
 Rajalakshmi Institute of Technology, Chennai
 ## CONNECT WITH ME
 
-
-<a href="https://github.com/Janani-murugan563">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://linkedin.com/in/jananimurugan563">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:jananimurugan563@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 <a href="https://leetcode.com/u/JANANIMURUGAN563/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
@@ -34,6 +24,18 @@ Rajalakshmi Institute of Technology, Chennai
 <a href="https://codolio.com/profile/Jananimurugan563">
   <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" alt="Codolio">
 </a>
+<a href="https://github.com/Janani-murugan563">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/jananimurugan563">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jananimurugan563@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+[![Contact Number](https://img.shields.io/badge/Contact-+91%2090032%2001563-6C63FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919003201563)
+
 
 </div>
 
