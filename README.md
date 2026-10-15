@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Janani Murugan — AI and Data Science Banner">
+<img src="Gray%20and%20Black%20Minimalist%20Copywriter%20LinkedIn%20Background%20Photo.png" width="100%" alt="Janani Murugan — AI and Data Science Banner">
 
 # JANANI M
 
@@ -38,6 +38,7 @@ My interests include machine learning, data analytics, data visualization, expla
 
 <h3>01 · LiverGuard AI</h3>
 
+
 An explainable multimodal AI ecosystem concept for liver health risk assessment, disease progression prediction, personalized treatment support, and remote monitoring.
 
 **Technologies**
@@ -52,7 +53,7 @@ An explainable multimodal AI ecosystem concept for liver health risk assessment,
 <td width="50%" valign="top">
 
 <h3>02 · CI/CD Guardian AI</h3>
-
+<img src="cicdpipeline.png" width="100%" alt="LiverGuard AI">
 A repository analysis concept that examines software projects and CI/CD workflows to help identify pipeline failures, bottlenecks, and opportunities for improvement.
 
 **Technologies**
