@@ -7,16 +7,78 @@
 **Artificial Intelligence & Data Science Undergraduate**
 
 Rajalakshmi Institute of Technology, Chennai
+## CONNECT WITH ME
 
-<a href="https://github.com/Janani-murugan563"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/jananimurugan563"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="https://komarev.com/ghpvc/?username=Janani-murugan563&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="GitHub profile views">
+<a href="https://github.com/Janani-murugan563">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/jananimurugan563">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jananimurugan563@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://leetcode.com/u/JANANIMURUGAN563/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+<a href="https://www.hackerrank.com/profile/jananimurugan563">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+<a href="https://www.codechef.com/users/janani563">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+<a href="http://www.skillrack.com/profile/520242/8a4668cd5055397f84b6e0a148dfc87b0cf7ecbc">
+  <img src="https://img.shields.io/badge/SkillRack-1565C0?style=for-the-badge" alt="SkillRack">
+</a>
+<a href="https://codolio.com/profile/Jananimurugan563">
+  <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" alt="Codolio">
+</a>
 
 </div>
 
+
+
 ---
+
+---
+
+## CODING STATISTICS & VISUAL ANALYTICS
+
+### Problems Solved by Platform
+
+```mermaid
+xychart-beta
+    title "Coding Platform Comparison"
+    x-axis ["LeetCode", "HackerRank", "CodeChef", "SkillRack"]
+    y-axis "Problems Solved" 0 --> 100
+    bar [0, 0, 0, 0]
+```
+
+### Overall Coding Activity
+
+| Metric | Count |
+|---|---:|
+| Platforms tracked | 5 |
+| LeetCode problems | Update count |
+| HackerRank problems | Update count |
+| CodeChef problems | Update count |
+| SkillRack problems | Update count |
+| Codolio consolidated total | Update count |
+
+### Problem Distribution
+
+```mermaid
+pie showData
+    title "Share of Solved Problems by Platform"
+    "LeetCode" : 0
+    "HackerRank" : 0
+    "CodeChef" : 0
+    "SkillRack" : 0
+```
+
+*Charts must be updated with verified statistics. Platform totals may overlap when the same problem is solved on multiple websites.*
+
 
 ## ABOUT ME
 
