@@ -43,43 +43,6 @@ Rajalakshmi Institute of Technology, Chennai
 
 ---
 
-## CODING STATISTICS & VISUAL ANALYTICS
-
-### Problems Solved by Platform
-
-```mermaid
-xychart-beta
-    title "Coding Platform Comparison"
-    x-axis ["LeetCode", "HackerRank", "CodeChef", "SkillRack"]
-    y-axis "Problems Solved" 0 --> 100
-    bar [0, 0, 0, 0]
-```
-
-### Overall Coding Activity
-
-| Metric | Count |
-|---|---:|
-| Platforms tracked | 5 |
-| LeetCode problems | Update count |
-| HackerRank problems | Update count |
-| CodeChef problems | Update count |
-| SkillRack problems | Update count |
-| Codolio consolidated total | Update count |
-
-### Problem Distribution
-
-```mermaid
-pie showData
-    title "Share of Solved Problems by Platform"
-    "LeetCode" : 0
-    "HackerRank" : 0
-    "CodeChef" : 0
-    "SkillRack" : 0
-```
-
-*Charts must be updated with verified statistics. Platform totals may overlap when the same problem is solved on multiple websites.*
-
-
 ## ABOUT ME
 
 I am an Artificial Intelligence and Data Science undergraduate passionate about building intelligent applications and data-driven solutions to real-world problems.
